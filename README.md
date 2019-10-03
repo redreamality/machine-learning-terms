@@ -72,5 +72,6 @@ Originally from [here](http://www.john-ros.com/translator/)
 |                             | model selection                      | structural learning                                     |
 | problem complexity measures | generalized degrees of freedom       | Rademacher complexity                                   |
 |                             | sample size                          | sample complexity                                       |
-      
+| information theory          | Kullback-Liebler divergence          | relative entropy                                        |
+|                             | |
  
